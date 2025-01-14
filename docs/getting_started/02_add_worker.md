@@ -1,5 +1,5 @@
 ---
-title: Worker  
+title: Set up Worker  
 description: How to add and configure machines for TIG Pool mining.  
 ---
 
@@ -13,7 +13,7 @@ Once your account is created, you will have access to your dashboard. To add mac
 2. **Name Your Machine:**  
    - Assign a unique and descriptive name to each machine to easily identify them.  
    - **Warning:** Ensure you have reviewed the necessary requirements for mining before proceeding.  
-     [Go to the Minimum Requirements section](/docs/Getting started/Requirements.md).  
+     [Go to the Minimum Requirements section](/docs/getting_started/01_requirements).  
 
 3. **Generate an Installation Script:**  
    - Once the machine is created, an installation script will be generated.  

@@ -1,4 +1,9 @@
-# How TIG Pool Works
+---
+title: How TIG Pool Works
+description:   
+---
+
+
 
 The TIG Pool connects the computational power of miners, allowing them to share the rewards of collective efforts. Since the transition to **TIG V2**, the number of unique benchmarkers has significantly decreased due to the increasing difficulty of challenges. Mining pools have become, and will increasingly be, essential for continuing mining on TIG.
 
@@ -53,7 +58,7 @@ If the pool reaches its cutoff limit due to self-deposits, additional computatio
 
 ## Titan Bonus Reward  
 
-As explained in **[Plans](/docs/about/plan.md)**, Titan profile users benefit from a bonus reward directly linked to their **Titan investment**.
+As explained in **[Plans](/docs/about/02_plan)**, Titan profile users benefit from a bonus reward directly linked to their **Titan investment**.
 
 ### Mechanism  
 
@@ -63,7 +68,7 @@ As explained in **[Plans](/docs/about/plan.md)**, Titan profile users benefit fr
   - For the round 48, the APY was **1.2%**.  
   - The more Nova machines there are in the pool, the higher the APY for Titan users will be.  
 
-This mechanism ensures that Titan investors receive significant benefits for their contributions to the pool's operations.  
+This mechanism ensures that Titan investors receive significant benefits for their contributions to the pool's Self deposit.  
 
 ---
 

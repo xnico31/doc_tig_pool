@@ -3,7 +3,6 @@ title: Staking Mechanism
 description: Detailed explanation of how staking works on TIG Pool.  
 ---
 
-# Staking on TIG Pool  
 
 ## Introduction  
 
@@ -41,7 +40,7 @@ When you stake your TIG tokens, here’s how the process works:
 Let’s break this down with an example:  
 
 - **Day 0:** You begin staking your TIG tokens on **01.01.2025**.  
-- **Day 14:** Your initial staking period ends on **15.01.2025**, but the staking is automatically renewed weekly unless you unstack.  
+- **Day 14:** Your initial staking period ends on **14.01.2025**, but the staking is automatically renewed weekly unless you unstack.  
 
 ### Scenario 1: Early Unstaking Request  
 
@@ -54,21 +53,6 @@ Let’s break this down with an example:
 
 ---
 
-## Example  
-
-- **Staking Date:** 01.01.2025  
-- **Initial Staking End Date:** 14.01.2025  
-
-### Unstaking Request Timeline:  
-
-1. **Request on 08.01.2025:**  
-   - Your staking will have been automatically renewed.  
-   - Funds will be available on **21.01.2025**.  
-
-2. **Request on 06.01.2025:**  
-   - Staking will still end on **15.01.2025**, as it falls within the renewed 7-day period.  
-
----
 
 ## Summary  
 

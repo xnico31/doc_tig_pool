@@ -3,7 +3,6 @@ title: Pool Wallet Management
 description: How to manage deposits, withdrawals, and rewards on TIG Pool.  
 ---
 
-# Pool Wallet Management  
 
 Once logged in with your Discord account, you will have access to your **pool wallet** where you can manage your operations, including deposits, withdrawals, viewing your reward history, and managing staking contracts.  
 

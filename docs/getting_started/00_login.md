@@ -1,10 +1,9 @@
 ---
-title: Loging  
+title: Login 
 
 description: 
 ---
 
-# Login Page  
 
 To register on TIG Pool, you need a Discord account to identify yourself on the pool. Note that only **one account per player** is allowed.  
 

@@ -3,13 +3,22 @@ title: Change Plan
 description: How to upgrade your machines from Nova to Stellar or Titan on TIG Pool.  
 ---
 
-# Change Plan  
+
 
 When you add a new machine, it is automatically assigned to the **Nova profile** by default. We recommend testing this setup for 1-2 days to familiarize yourself with the system and understand how it works.  
 
 Once you're ready to upgrade your machine to Stellar or Titan, or if you simply want to try something different, follow the instructions below:
 
+---
 
+## Important Notes Before Upgrading  
+
+Before upgrading your machines, it is crucial to ensure you fully understand the staking mechanism and the requirements for each profile.  
+
+- **Understand Staking:**  
+  Refer to the documentation: **[Pool Mechanism: Staking](/docs/pool_mecanism/02_stacking)**.  
+- **Check Eligibility:**  
+  Ensure you meet the minimum requirements for the profile you wish to upgrade to.  
 
 ---
 
@@ -19,7 +28,7 @@ To upgrade a machine to the **Stellar profile**, follow these steps:
 
 1. **Ensure Sufficient TIG Balance:**  
    - You must have TIG tokens available in your pool wallet.  
-   - Refer to the documentation: **[Pool Mechanism: Token](/docs/pool_mecanism/token.md)**.  
+   - Refer to the documentation: **[Pool Mechanism: Token](/docs/pool_mecanism/03_token)**.  
 
 2. **Upgrade Your Machine:**  
    - Go to the **"Your Workers"** section on your dashboard.  
@@ -47,14 +56,12 @@ Upgrading to the **Titan profile** is slightly different:
    - If the limit has been reached, you will see an alert message when attempting to invest.  
 
 3. **Upgrade Your Machine:**  
-   - Once the 2000 TIG requirement is met, you can upgrade your machines to Titan. reminder your limit of slave depend of your total invest amount 
+   - Once the 2000 TIG requirement is met, you can upgrade your machines to Titan.  
+   - Remember, your limit of slaves depends on your total investment amount.  
+   
 
-4. **Important:**  
-   - Before making an investment, ensure you fully understand the staking mechanism.  
-   - Refer to the documentation: **[Pool Mechanism: Staking](./pool_mecanism/stacking.md)**.  
+--- 
 
----
-
-By following these steps, you can seamlessly upgrade your machines to higher-tier profiles, unlocking greater benefits and capabilities.  
+By following these steps, you can seamlessly upgrade your machines to higher-tier plans, unlocking greater benefits and capabilities.  
 
 Happy mining with TIG Pool! 🚀  

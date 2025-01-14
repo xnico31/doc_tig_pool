@@ -6,7 +6,7 @@ title: Plans
 
 To enable mining on TIG Pool, we have created plans tailored to the type of miner you are. Since round 45, TIG has introduced a self-deposit mechanism. This system was designed to ensure that benchmarkers remain invested in the project and to prevent exploitation by botnets. As a result, the pool is required to maintain a minimun of self deposit.  
 
-Currently, we hold **XXX TIG** as a self-deposit, allowing us to maintain a cut-off of **XXX TIG**.  
+Currently, we hold about  **204 647 TIG** as a self-deposit, allowing us to maintain a cut-off of **1574  solutions**.  
 
 Here are the three available plans:  
 

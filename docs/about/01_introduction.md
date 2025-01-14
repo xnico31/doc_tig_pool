@@ -23,7 +23,7 @@ Our mining pool is eagerly awaited by the community as it opens the doors for ev
 
 To join TIG Pool, you’ll need some specific hardware and configurations. Don’t worry – we’ve made it simple for you.  
 Check out the detailed requirements and setup guide here:  
-[**Hardware and Software Requirements**](#)
+[**Hardware and Software Requirements**](/docs/getting_started/01_requirements)
 
 ## What You’ll Find in This Documentation
 

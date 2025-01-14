@@ -1,9 +1,10 @@
 ---
 title: Minimum Requirements  
-description: Specifications required for optimal mining on TIG Pool.  
+description: Specifications required for optimal mining on TIG Pool. 
+weight: 1
 ---
 
-# Minimum Requirements  
+
 
 To ensure optimal mining conditions, here are the necessary specifications for your machines:  
 
