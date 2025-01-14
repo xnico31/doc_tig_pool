@@ -8,7 +8,7 @@ The TIG Pool connects the computational power of miners, allowing them to share 
 
 The pool dynamically manages nonce balancing per challenge for you. This ensures optimal performance without requiring any configuration on your part.
 
-- You can view this balancing in the **[TIGSTAT](https://tigstats.com/benchmarkers/0x8bc5ee3c32c3e7d53fcde11cd22b5bf855acebec){:target="_blank"}** statistics.
+- You can view this balancing in the **[TIGSTAT](https://tigstats.com/benchmarkers/0x8bc5ee3c32c3e7d53fcde11cd22b5bf855acebec)** statistics.
 - At every benchmark, the pool adjusts to the most optimal pre-commit values, ensuring efficient and accurate mining results.
 
 ---
@@ -19,7 +19,7 @@ The pool performs self-deposits using TIG staked by **Stellar** and **Nova** use
 
 - You can access the history of active self-deposits directly from your dashboard.
 - Without these self-deposits, the pool would not be able to mine.
-- For more details, refer to the **[TIG Cutoff Documentation](#)**, which explains the cutoff principle.
+- For more details, refer to the **[TIG Cutoff Documentation](https://github.com/tig-foundation/tig-monorepo/blob/8c0668b90f6847da67d545c9d6b645556f4f2850/docs/tech/4_benchmarkers.md?plain=1#L139)**, which explains the cutoff principle.
 
 ---
 
