@@ -53,7 +53,7 @@ If the pool reaches its cutoff limit due to self-deposits, additional computatio
 
 ## Titan Bonus Reward  
 
-As explained in **[Plans](/about/plan.md)**, Titan profile users benefit from a bonus reward directly linked to their **Titan investment**.
+As explained in **[Plans](/docs/about/plan.md)**, Titan profile users benefit from a bonus reward directly linked to their **Titan investment**.
 
 ### Mechanism  
 
