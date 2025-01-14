@@ -32,7 +32,7 @@ This documentation is here to guide you through every step of your mining journe
 - Detailed instructions for connecting to TIG Pool, and create account 
 - Explanations of our payout mechanisms and how rewards are calculated.
 - Tips to optimize your mining performance.
-- explaination of the 3 profiles we offer 
+- Explaination of the 3 profiles we offer 
 
 ## Continuous Development
 
