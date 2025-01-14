@@ -40,8 +40,6 @@ If you encounter difficulties:
 1. Be sure to carefully read the **[Troubleshooting](#)** section for common problems and solutions.  
 2. If the issue persists, you can:  
    - Create a ticket on our **Discord** server.  
-   - Submit a request in the **[Support Section](#)** on our website.  
-
 ---
 
 And that’s it! Follow these guidelines to ensure a smooth and efficient mining experience.  
