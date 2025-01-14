@@ -11,7 +11,7 @@ To ensure optimal mining conditions, here are the necessary specifications for y
 
 ## Operating System  
 
-- **Minimum:** Ubuntu 20.04  
+- **Minimum:** Ubuntu 22.04  
 
 ---
 
