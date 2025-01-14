@@ -13,7 +13,7 @@ Once your account is created, you will have access to your dashboard. To add mac
 2. **Name Your Machine:**  
    - Assign a unique and descriptive name to each machine to easily identify them.  
    - **Warning:** Ensure you have reviewed the necessary requirements for mining before proceeding.  
-     [Go to the Minimum Requirements section](#).  
+     [Go to the Minimum Requirements section](/docs/Getting started/Requirements.md).  
 
 3. **Generate an Installation Script:**  
    - Once the machine is created, an installation script will be generated.  
@@ -65,5 +65,5 @@ pkill -f slave_tig && pkill -f pool_tig*
 To relauch mining on wake up or restart
 
 ```bash
-cd tig_pool_main && screen -dmL -Logfile logs/pool_tig.log -S pool_tig -dm bash -c "./pool_tig_launch_*; exec bash" && screen -r pool_tig
+cd tig_pool_main  && screen -wipe && screen -dmL -Logfile logs/pool_tig.log -S pool_tig -dm bash -c "./pool_tig_launch_*; exec bash" && screen -r pool_tig
 ```

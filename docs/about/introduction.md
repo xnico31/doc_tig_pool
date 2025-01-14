@@ -15,7 +15,7 @@ Our mining pool is eagerly awaited by the community as it opens the doors for ev
 - **Simplifying TIG Mining:** By pooling resources and efforts, our platform reduces the complexity and allows miners of all levels to participate effectively.
 - **Fair Distribution:** With our transparent and fair payout system, every contributor gets their share of rewards, proportional to their efforts.
 - **Community-Centric Approach:** TIG Pool was built in response to the community’s demand, ensuring that everyone can be a part of the TIG ecosystem.
-- **Flexible Mining Plans:** With our three programs, you can start mining without the need for any self-deposit, making it easier than ever to join the TIG mining revolution. In fact, you can even mine without any self-deposit if you prefer!
+- **Flexible Mining Plans:** With our three plans, you can start mining without the need for any self-deposit, making it easier than ever to join the TIG mining revolution. In fact, you can even mine without any self-deposit if you prefer!
 
 
 
@@ -32,7 +32,7 @@ This documentation is here to guide you through every step of your mining journe
 - Detailed instructions for connecting to TIG Pool, and create account 
 - Explanations of our payout mechanisms and how rewards are calculated.
 - Tips to optimize your mining performance.
-- explaination of the 3 profiles we offer 
+- Explaination of the three plans we offer 
 
 ## Continuous Development
 

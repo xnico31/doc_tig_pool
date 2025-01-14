@@ -7,7 +7,7 @@ description: Detailed explanation of how staking works on TIG Pool.
 
 ## Introduction  
 
-Staking is an essential mechanism on TIG Pool, required to upgrade a machine to the **Titan** or **Stellar** profile. By staking TIG tokens, you allow TIG Pool to deposit this amount in the TIG self-deposit system, helping to increase the cutoff limit.  
+Staking is an essential mechanism on TIG Pool, required to upgrade a machine to the **Titan** or **Stellar** plan. By staking TIG tokens, you allow TIG Pool to deposit this amount in the TIG self-deposit system, helping to increase the cutoff limit.  
 
 It is important to understand the mechanism and its constraints before performing your first staking operation!  
 
@@ -40,17 +40,17 @@ When you stake your TIG tokens, here’s how the process works:
 
 Let’s break this down with an example:  
 
-- **Day 0:** You begin staking your TIG tokens on **01.01.2024**.  
-- **Day 14:** Your initial staking period ends on **15.01.2024**, but the staking is automatically renewed weekly unless you unstack.  
+- **Day 0:** You begin staking your TIG tokens on **01.01.2025**.  
+- **Day 14:** Your initial staking period ends on **15.01.2025**, but the staking is automatically renewed weekly unless you unstack.  
 
 ### Scenario 1: Early Unstaking Request  
 
-- If you request to unstack **before Day 7 (07.01.2024)**, your funds will be **withdrawable on 15.01.2024**.  
+- If you request to unstak **before Day 7 (07.01.2025)**, your funds will be **withdrawable on 15.01.2025**.  
 
 ### Scenario 2: Late Unstaking Request  
 
-- If you request to unstack **on or after Day 7 (07.01.2024)**, the staking is automatically renewed for another 7 days.  
-  - Your funds will then be available at the **end of the renewed period**, which is **22.01.2024**.  
+- If you request to unstack **on or after Day 7 (07.01.2025)**, the staking is automatically renewed for another 7 days.  
+  - Your funds will then be available at the **end of the renewed period**, which is **22.01.2025**.  
 
 ---
 
