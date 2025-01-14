@@ -19,7 +19,7 @@ To upgrade a machine to the **Stellar profile**, follow these steps:
 
 1. **Ensure Sufficient TIG Balance:**  
    - You must have TIG tokens available in your pool wallet.  
-   - Refer to the documentation: **[Pool Mechanism: Token](./pool_mecanism/token.md)**.  
+   - Refer to the documentation: **[Pool Mechanism: Token](/docs/pool_mecanism/token.md)**.  
 
 2. **Upgrade Your Machine:**  
    - Go to the **"Your Workers"** section on your dashboard.  
@@ -28,7 +28,7 @@ To upgrade a machine to the **Stellar profile**, follow these steps:
    - If you have the necessary funds, the upgrade will be processed.  
 
 3. **Notes:**  
-   - The maximum number of Stellar machines per account is currently **15**.  
+   - The maximum number of Stellar machines per account is **15**.  
    - To confirm the change:  
      - The badge next to your worker will change to a **lightning bolt icon**.  
      - On your machine’s `pool_tig` screen, the status will now display **Stellar**.  
