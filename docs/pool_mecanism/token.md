@@ -5,11 +5,11 @@ description: How to manage deposits, withdrawals, and rewards on TIG Pool.
 
 # Pool Wallet Management  
 
-Once logged in with your Discord account, you will have access to a **pool wallet** where you can manage your operations, including deposits, withdrawals, viewing your reward history, and managing staking contracts.  
+Once logged in with your Discord account, you will have access to your **pool wallet** where you can manage your operations, including deposits, withdrawals, viewing your reward history, and managing staking contracts.  
 
 ---
 
-## How to Top Up  
+## How to Top-up
 
 During your first top-up, follow these steps:  
 
@@ -48,7 +48,7 @@ There are two types of mining rewards:
    - Rewards based on your computational power contribution.  
 
 2. **Bonus Rewards:**  
-   - Additional rewards if you are a **Titan profile** user.  
+   - Additional rewards if you have a **Titan plan**.  
 
 ### Reward History  
 
