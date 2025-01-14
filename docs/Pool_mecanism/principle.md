@@ -8,7 +8,7 @@ The TIG Pool connects the computational power of miners, allowing them to share 
 
 The pool dynamically manages nonce balancing per challenge for you. This ensures optimal performance without requiring any configuration on your part.
 
-- You can view this balancing in the **[TIGSTAT](https://tigstats.com/benchmarkers/0x8bc5ee3c32c3e7d53fcde11cd22b5bf855acebec)** statistics.
+- You can view this balancing in the **[TIGSTAT](https://tigstats.com/benchmarkers/0x8bc5ee3c32c3e7d53fcde11cd22b5bf855acebec){:target="_blank"}** statistics.
 - At every benchmark, the pool adjusts to the most optimal pre-commit values, ensuring efficient and accurate mining results.
 
 ---
