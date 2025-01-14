@@ -20,15 +20,15 @@ To ensure optimal mining conditions, here are the necessary specifications for y
 - **Minimum Threads:** 24  
   - Machines with fewer than 24 threads will **not** be allowed to mine and will be **immediately disqualified**.  
 
-- **Maximum Threads (Nova Profile):** 256  
-  - **Note:** There is no thread limit for Stellar and Titan profiles.  
+- **Maximum Threads (Nova Plan):** 256  
+  - **Note:** There is no thread limit for Stellar and Titan plans.  
   - The thread limit for Nova is implemented to prevent exploitation by botnets.  
 
 ---
 
 ## Power Consumption  
 
-Avoid using your machine for **dual mining** with other energy-intensive Coin.  
+- Do not use your machine for **dual mining** with other energy-intensive Coin.  
 - The pool performs **random auto-benchmarks** on your machines to verify performance.  
 - If your machine is found with poor performance, you may experience a **drop in profitability** and risk **disqualification**.  
 
