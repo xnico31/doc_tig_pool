@@ -4,7 +4,7 @@ title: Plans
 
 ## Mining Profiles on TIG Pool  
 
-To enable mining on TIG Pool, we have created profiles tailored to the type of miner you are. Since round XX, TIG has introduced a self-deposit mechanism. This system was designed to ensure that benchmarkers remain invested in the project and to prevent exploitation by botnets. As a result, the pool is required to maintain a minimun of self deposit.  
+To enable mining on TIG Pool, we have created profiles tailored to the type of miner you are. Since round 45, TIG has introduced a self-deposit mechanism. This system was designed to ensure that benchmarkers remain invested in the project and to prevent exploitation by botnets. As a result, the pool is required to maintain a minimun of self deposit.  
 
 Currently, we hold **XXX TIG** as a self-deposit, allowing us to maintain a cut-off of **XXX TIG**.  
 
@@ -13,9 +13,9 @@ Here are the three available profiles:
 ## **Nova (No Staking Required)**  
 
 - Mining possible without any deposit.  
-- High pool fees (a portion of the fees is redistributed to Titan profile users).  
+- High pool fees (a portion of the fees is redistributed as a bonus to Titan profile users).  
 - Idle phases when the pool reaches the cut-off to avoid penalizing miners who staked TIG.  
-- Current limitation: **15 machines per Discord account**.  
+- Limitation: **15 machines per Discord account**.  
 
 ---
 
@@ -24,7 +24,7 @@ Here are the three available profiles:
 - Mandatory stake of **115 TIG** per machine.  
 - Low pool fees.  
 - No idle phases.  
-- Current limitation: **15 machines per Discord account**.  
+- Limitation: **15 machines per Discord account**.  
 
 ---
 
@@ -34,8 +34,9 @@ Here are the three available profiles:
 - Low pool fees.  
 - No idle phases.  
 - Machine limitation: **115 TIG per machine**. 
-- Bonus rewards from Novas fees ( Base on your invest share )
-- Titan slot are limited actualy the limit is set to **20XXX00 TIG**
+- Bonus rewards from Novas fees (based on your invest share).
+- Titan slots are limited to a fixed threshold defined by the TiGPool team.
+- New Titan slots are opened every week during payout.
 
 ---
 
